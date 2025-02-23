@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+media/
+uploads/
